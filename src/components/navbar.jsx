@@ -4,6 +4,7 @@ const navbar = () => {
   return (
     <div>
         hello
+        dynamic
         navbar</div>
   )
 }
